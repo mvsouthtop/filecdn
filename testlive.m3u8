@@ -1,11 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:6
-#EXT-X-MEDIA-SEQUENCE:3
-#EXTINF:6.000000,
-testlive3.ts
-#EXTINF:6.000000,
-testlive4.ts
+#EXT-X-MEDIA-SEQUENCE:5
 #EXTINF:6.000000,
 testlive5.ts
 #EXTINF:6.000000,
@@ -22,3 +18,7 @@ testlive10.ts
 testlive11.ts
 #EXTINF:6.000000,
 testlive12.ts
+#EXTINF:6.000000,
+testlive13.ts
+#EXTINF:6.000000,
+testlive14.ts
