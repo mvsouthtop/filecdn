@@ -10,3 +10,8 @@ live2.ts
 live3.ts
 #EXTINF:6.080000,
 live4.ts
+#EXTINF:10.000000,
+live5.ts
+#EXTINF:2.160000,
+live6.ts
+#EXT-X-ENDLIST
