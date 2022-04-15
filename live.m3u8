@@ -4,3 +4,9 @@
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:10.000000,
 live1.ts
+#EXTINF:6.120000,
+live2.ts
+#EXTINF:9.000000,
+live3.ts
+#EXTINF:9.480000,
+live4.ts
